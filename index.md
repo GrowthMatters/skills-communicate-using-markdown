@@ -25,3 +25,6 @@ Editing the file directly from the correct branch outside the pull request allow
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Let's add some code blocks. Code blocks can render differently depending on the language.
+<pre lang="markdown">```java public class HelloGit{public static void main(String a[]){ System.out.println("Hello Git developers!!");}}```</pre>
